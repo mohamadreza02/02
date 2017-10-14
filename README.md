@@ -1,1 +1,2 @@
-The smellslikebakin app is my first project to upload to my GitHub
+The smellslikebakin app
+this is my first  android project  hope you enjoy it
