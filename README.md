@@ -10,7 +10,7 @@
 
 4.makeYourMaterial An android app which guided through a material design ( the best practices of design concepts)
 
-5.Hibernate-Annotations: Simple Tasks of SQL
+5.Hibernate-Annotations: Simple Tasks of SQL.
 
 
 
